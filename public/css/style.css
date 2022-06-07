@@ -1,0 +1,42 @@
+body{
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 0px auto;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding-left: 16px;
+}
+h1{
+    color: orangered;
+}
+img{
+    width: 250px;
+}
+.main-section{
+    flex-grow: 1;
+}
+
+header{
+    padding-bottom: 16px;
+}
+
+header a{
+    padding-right: 10px;
+    text-decoration: none;
+    color:grey;
+}
+
+footer{
+    border-top: 1px solid gray;
+}
+
+input{
+    padding: 8px;
+    border: 1px solid lightgray;
+}
+
+button{
+    padding: 8px;
+    background-color: orangered;
+}

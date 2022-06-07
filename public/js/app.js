@@ -1,3 +1,4 @@
+console.log('git working fine');
 const form=document.querySelector('form');
 const input=document.querySelector('input');
 const address= document.getElementById('address');
